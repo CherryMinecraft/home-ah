@@ -25,14 +25,14 @@ mobileMenuList([
 	"title": "Staff"
   },
   {
-    "url": "#",
+    "url": "/bans",
     "extra": "",
 	"title": "Ban List"
   }
 ]);
 desktopMenuList([
   {
-    "url": "#",
+    "url": "/bans",
     "extra": "",
 	"title": "Ban List"
   },
