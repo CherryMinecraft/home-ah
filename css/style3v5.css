@@ -259,7 +259,7 @@ top:-9000px;
   color: #121212;
 	margin-top: 69px;
   position:absolute;
-  background-image: url("img/prew.png");
+  background-image: url("https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/prew.png");
   left: 31px;
 	opacity: 0.3;
 }
@@ -273,7 +273,7 @@ top:-9000px;
   color: #121212;
 	margin-top: 69px;
   position:absolute;
-  background-image: url("img/next.png");
+  background-image: url("https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/next.png");
   right: 31px;
 	opacity: 0.3;
 }
@@ -353,7 +353,7 @@ float: left;
 width:604px;
 text-align:center;
 float: left;
-background-image: url("img/dub.png");
+background-image: url("https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/dub.png");
 background-repeat: no-repeat;
 }
 
@@ -410,7 +410,7 @@ font-weight: normal;
 font-style: normal;
 margin-left:17px;
 opacity: 0.7;
-background-image: url(img/1080p.png);
+background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/1080p.png);
 background-repeat: no-repeat;
 
 }
@@ -439,7 +439,7 @@ font-weight: normal;
 font-style: normal;
 margin-left:17px;
 opacity: 0.9;
-background-image: url(img/1080p.png);
+background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/1080p.png);
 background-repeat: no-repeat;
 }
 .epa{
@@ -620,7 +620,7 @@ width:425px;
 .center{
 	margin:0 auto;
 	display:block;
-	background-image: url("img/VB.png");
+	background-image: url("https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/VB.png");
 }
 
 .centerf{
@@ -650,7 +650,7 @@ padding:15px;
 	text-align:left;
 }
 .vb{
-	background-image: url("img/VB.png");
+	background-image: url("https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/VB.png");
 }
 
 .page{
@@ -696,7 +696,7 @@ text-align: center;
     background-color: #454545;
     color: #121212;
     overflow: hidden;
-    background-image: url(img/dub.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/dub.png);
     background-repeat: no-repeat;
     border-bottom: solid 1px #121212;
 }
@@ -780,7 +780,7 @@ text-align: center;
     color: #121212;
     background-color: #ffffff;
     float: left;
-    background-image: url(img/button.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/button.png);
     background-repeat: no-repeat;
 	background-size: 216px 121px;
 }
@@ -884,41 +884,41 @@ overflow:hidden;
 }
 @font-face {
     font-family: myriad;
-    src: url(https://troyjapanime.gitlab.io/fonts/myriad-pro/MyriadPro-Regular.otf);
+    src: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/fonts/myriad-pro/MyriadPro-Regular.otf);
 }
 
 @font-face {
     font-family: myriadlight;
-    src: url(https://troyjapanime.gitlab.io/fonts/myriad-pro/MyriadPro-Light.otf);
+    src: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/fonts/myriad-pro/MyriadPro-Light.otf);
 }
 @font-face {
     font-family: opensansregular;
-    src: url(https://troyjapanime.gitlab.io/fonts/Open_Sans/OpenSans-Regular.ttf);
+    src: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/fonts/Open_Sans/OpenSans-Regular.ttf);
 }
 @font-face {
     font-family: opensanslight;
-    src: url(https://troyjapanime.gitlab.io/fonts/Open_Sans/OpenSans-Light.ttf);
+    src: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/fonts/Open_Sans/OpenSans-Light.ttf);
 }
 
 
 @font-face {
     font-family: encodesansregular;
-    src: url(https://troyjapanime.gitlab.io/fonts/Encode_Sans_Expanded/EncodeSansExpanded-Regular.ttf);
+    src: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/fonts/Encode_Sans_Expanded/EncodeSansExpanded-Regular.ttf);
 }
 @font-face {
     font-family: encodesanslight;
-    src: url(https://troyjapanime.gitlab.io/fonts/Encode_Sans_Expanded/EncodeSansExpanded-Light.ttf);
+    src: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/fonts/Encode_Sans_Expanded/EncodeSansExpanded-Light.ttf);
 }
 
 body
 {
 	margin: 0px;
     #background-image: url(
-	img/line.png);
+	https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/line.png);
     #background-repeat: repeat-x
     #background-position: left
 	top;
-	/* background-image: url(img/ah-wp-1080.jpg); */ */
+	/* background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/ah-wp-1080.jpg); */ */
 	background-position: bottom;
 }
 a{
@@ -954,7 +954,7 @@ image-rendering: -webkit-optimize-contrast;
     padding-left: 20px;
     font-size: 19px;
     font-family: myriad;
-	background-image: url(img/dub.png);
+	background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/dub.png);
     background-repeat: no-repeat;
 }
 .condd{
@@ -1011,7 +1011,7 @@ background-color: #ffffff;
 	margin-bottom: 1px;
 	font-size: 19px;
 	font-family: myriad;
-	background-image: url(img/dub.png);
+	background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/dub.png);
 	background-repeat: no-repeat;
 	background-color: #ffffff;
 }
@@ -1045,7 +1045,7 @@ color: #e81e30;
 .headermain{width: 1280px;margin: 0 auto;overflow: hidden;}
 .logo{
 	float: left;
-	background-image: url(img/ah_logo.png);
+	background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/ah_logo.png);
 	background-size: 40px 40px;
 	background-repeat: no-repeat;
 	width: 40px;
@@ -1084,7 +1084,7 @@ margin-right: 10px;
     margin: 0px;
     border: 0px;
 	background-color: #efefef;
-    background-image: url(img/ah_search.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/ah_search.png);
     background-size: 40px 40px;
     vertical-align: text-top;
     outline: none;
@@ -1095,7 +1095,7 @@ margin-right: 10px;
 .burger{
 	display: none;
 	float: right;
-	background-image: url(img/ah_burger_idle.png);
+	background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/ah_burger_idle.png);
 	background-size: 40px 40px;
 	background-repeat: no-repeat;
 	width: 40px;
@@ -1109,7 +1109,7 @@ margin-right: 10px;
 }
 .burgeractive{
 	float: right;
-    background-image: url(img/ah_burger_active.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/ah_burger_active.png);
     background-size: 40px 40px;
     background-repeat: no-repeat;
     width: 40px;
@@ -1167,7 +1167,7 @@ color: #e81e30;
 }
 .slider{height:320px;background-color: #ffffff;overflow: hidden;text-align:center;}
 .sliderp{
-background-image: url(img/slide_prev.png);
+background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/slide_prev.png);
     background-size: 80px 80px;
     background-repeat: no-repeat;
     width: 80px;
@@ -1182,7 +1182,7 @@ background-image: url(img/slide_prev.png);
     opacity: 0.4;
 }
 .slidern{
-    background-image: url(img/slide_next.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/slide_next.png);
     background-size: 80px 80px;
     background-repeat: no-repeat;
     width: 80px;
@@ -1547,7 +1547,7 @@ max-width: 1240px;
 }
 
 .socf{
-    background-image: url(img/fb.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/fb.png);
     background-repeat: no-repeat;
     background-size: 40px 40px;
     width: 40px;
@@ -1559,7 +1559,7 @@ max-width: 1240px;
 opacity: 0.7;
 }
 .socg{
-    background-image: url(img/gp.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/gp.png);
     background-repeat: no-repeat;
     background-size: 40px 40px;
     width: 40px;
@@ -1571,7 +1571,7 @@ opacity: 0.7;
 opacity: 0.7;
 }
 .soct{
-	background-image: url(img/tweet.png);
+	background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/tweet.png);
     background-repeat: no-repeat;
     background-size: 40px 40px;
     width: 40px;
@@ -1620,7 +1620,7 @@ opacity: 0.7;
     color: #121212;
     float: left;
 }
-.ieps{background-image: url(img/ah_play_transparent.png);background-color: #ffffff;background-size: 115px 115px;background-repeat: no-repeat;width: 115px;height: 115px;text-align: center;padding: 0px;margin-right: 1px;margin-top: 0px;float: left;}
+.ieps{background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/ah_play_transparent.png);background-color: #ffffff;background-size: 115px 115px;background-repeat: no-repeat;width: 115px;height: 115px;text-align: center;padding: 0px;margin-right: 1px;margin-top: 0px;float: left;}
 
 .ieps2{
     width: 115px;
@@ -1786,7 +1786,7 @@ padding-top: 10px;
 	float: left;
 	/* padding-top: 1px; */
 }
-.infoep{background-image: url(img/ah_play_transparent.png);background-color: #ffffff;background-repeat: no-repeat;background-size: 79px 79px;width: 79px;height: 79px;float: left;margin-right: 0px;margin-bottom: 0px;}
+.infoep{background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/ah_play_transparent.png);background-color: #ffffff;background-repeat: no-repeat;background-size: 79px 79px;width: 79px;height: 79px;float: left;margin-right: 0px;margin-bottom: 0px;}
 .infoept{
 	background-color: #ffffff;
 	width: 79px;
@@ -2053,7 +2053,7 @@ width: 239px;
     color: #121212;
     background-color: #ffffff;
     float: left;
-    background-image: url(img/button.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/button.png);
     background-size: 239px 134px;
     background-repeat: no-repeat;
 }
@@ -2154,7 +2154,7 @@ color: #121212;
 }
 .staff2{
 color:#121212;
-background-image: url("img/staff.png");
+background-image: url("https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/staff.png");
 background-repeat: no-repeat;
 background-position: center top;
 text-align:center;
@@ -2308,7 +2308,7 @@ border:0px;
     appearance: none;
     -webkit-appearance: none;
     -moz-appearance: none;
-    background-image: url(img/ah_select.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/ah_select.png);
     background-size: 40px 40px;
     background-repeat: no-repeat;
     background-position: right;
@@ -2335,7 +2335,7 @@ border:0px;
     appearance: none;
     -webkit-appearance: none;
     -moz-appearance: none;
-    background-image: url(img/ah_select.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/ah_select.png);
     background-size: 40px 40px;
     background-repeat: no-repeat;
     background-position: right;
@@ -2362,7 +2362,7 @@ border:0px;
     appearance: none;
     -webkit-appearance: none;
     -moz-appearance: none;
-    background-image: url(img/ah_select.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/ah_select.png);
     background-size: 40px 40px;
     background-repeat: no-repeat;
     background-position: right;
@@ -2379,11 +2379,11 @@ border:0px;
     width: 970px;
 }
 
-.filterselect{width: 239px;float: left;border-radius: 0px;padding: 9px;padding-left: 10px;padding-right: 36px;margin: 0px;margin-right: 1px;margin-bottom: 1px;border: 0px;background-color: #ffffff;color: #121212;outline: none;/* margin-left: 10px; */vertical-align: text-top;font-size: 17px;font-weight: normal;font-style: normal;appearance: none;-webkit-appearance: none;-moz-appearance: none;background-image: url(img/ah_select.png);background-size: 40px 40px;background-repeat: no-repeat;background-position: right;}
+.filterselect{width: 239px;float: left;border-radius: 0px;padding: 9px;padding-left: 10px;padding-right: 36px;margin: 0px;margin-right: 1px;margin-bottom: 1px;border: 0px;background-color: #ffffff;color: #121212;outline: none;/* margin-left: 10px; */vertical-align: text-top;font-size: 17px;font-weight: normal;font-style: normal;appearance: none;-webkit-appearance: none;-moz-appearance: none;background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/ah_select.png);background-size: 40px 40px;background-repeat: no-repeat;background-position: right;}
 .filterselect:hover{
 	opacity: 0.8;
 }
-.filtersubmit{width: 239px;float: left;border-radius: 0px;padding: 9px;padding-left: 10px;/* padding-right: 36px; */margin: 0px;margin-right: 1px;margin-bottom: 1px;border: 0px;background-color: #ffffff;color: #121212;outline: none;/* margin-left: 10px; */vertical-align: text-top;font-size: 17px;font-weight: normal;font-style: normal;appearance: none;-webkit-appearance: none;-moz-appearance: none;/* background-image: url(img/ah_select.png); *//* background-size: 40px 40px; *//* background-repeat: no-repeat; *//* background-position: right; */}
+.filtersubmit{width: 239px;float: left;border-radius: 0px;padding: 9px;padding-left: 10px;/* padding-right: 36px; */margin: 0px;margin-right: 1px;margin-bottom: 1px;border: 0px;background-color: #ffffff;color: #121212;outline: none;/* margin-left: 10px; */vertical-align: text-top;font-size: 17px;font-weight: normal;font-style: normal;appearance: none;-webkit-appearance: none;-moz-appearance: none;/* background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/ah_select.png); *//* background-size: 40px 40px; *//* background-repeat: no-repeat; *//* background-position: right; */}
 .filtersubmit:hover{
 	opacity: 0.8;
 }
@@ -4166,7 +4166,7 @@ top:-9000px;
   color: #333333;
 	margin-top: 69px;
   position:absolute;
-  background-image: url("img/prew.png");
+  background-image: url("https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/prew.png");
   left: 31px;
 	opacity: 0.3;
 }
@@ -4180,7 +4180,7 @@ top:-9000px;
   color: #333333;
 	margin-top: 69px;
   position:absolute;
-  background-image: url("img/next.png");
+  background-image: url("https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/next.png");
   right: 31px;
 	opacity: 0.3;
 }
@@ -4260,7 +4260,7 @@ float: left;
 width:604px;
 text-align:center;
 float: left;
-background-image: url("img/dub.png");
+background-image: url("https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/dub.png");
 background-repeat: no-repeat;
 }
 
@@ -4317,7 +4317,7 @@ font-weight: normal;
 font-style: normal;
 margin-left:17px;
 opacity: 0.7;
-background-image: url(img/1080p.png);
+background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/1080p.png);
 background-repeat: no-repeat;
 
 }
@@ -4346,7 +4346,7 @@ font-weight: normal;
 font-style: normal;
 margin-left:17px;
 opacity: 0.9;
-background-image: url(img/1080p.png);
+background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/1080p.png);
 background-repeat: no-repeat;
 }
 .epa{
@@ -4527,7 +4527,7 @@ width:425px;
 .center{
 	margin:0 auto;
 	display:block;
-	background-image: url("img/VB.png");
+	background-image: url("https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/VB.png");
 }
 
 .centerf{
@@ -4557,7 +4557,7 @@ padding:15px;
 	text-align:left;
 }
 .vb{
-	background-image: url("img/VB.png");
+	background-image: url("https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/VB.png");
 }
 
 .page{
@@ -4603,7 +4603,7 @@ text-align: center;
     background-color: #454545;
     color: #333333;
     overflow: hidden;
-    background-image: url(img/dub.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/dub.png);
     background-repeat: no-repeat;
     border-bottom: solid 1px #333333;
 }
@@ -4687,7 +4687,7 @@ text-align: center;
     color: #333333;
     background-color: #121212;
     float: left;
-    background-image: url(img/button.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/button.png);
     background-repeat: no-repeat;
 	background-size: 216px 121px;
 }
@@ -4791,41 +4791,41 @@ overflow:hidden;
 }
 @font-face {
     font-family: myriad;
-    src: url(https://troyjapanime.gitlab.io/fonts/myriad-pro/MyriadPro-Regular.otf);
+    src: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/fonts/myriad-pro/MyriadPro-Regular.otf);
 }
 
 @font-face {
     font-family: myriadlight;
-    src: url(https://troyjapanime.gitlab.io/fonts/myriad-pro/MyriadPro-Light.otf);
+    src: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/fonts/myriad-pro/MyriadPro-Light.otf);
 }
 @font-face {
     font-family: opensansregular;
-    src: url(https://troyjapanime.gitlab.io/fonts/Open_Sans/OpenSans-Regular.ttf);
+    src: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/fonts/Open_Sans/OpenSans-Regular.ttf);
 }
 @font-face {
     font-family: opensanslight;
-    src: url(https://troyjapanime.gitlab.io/fonts/Open_Sans/OpenSans-Light.ttf);
+    src: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/fonts/Open_Sans/OpenSans-Light.ttf);
 }
 
 
 @font-face {
     font-family: encodesansregular;
-    src: url(https://troyjapanime.gitlab.io/fonts/Encode_Sans_Expanded/EncodeSansExpanded-Regular.ttf);
+    src: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/fonts/Encode_Sans_Expanded/EncodeSansExpanded-Regular.ttf);
 }
 @font-face {
     font-family: encodesanslight;
-    src: url(https://troyjapanime.gitlab.io/fonts/Encode_Sans_Expanded/EncodeSansExpanded-Light.ttf);
+    src: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/fonts/Encode_Sans_Expanded/EncodeSansExpanded-Light.ttf);
 }
 
 body
 {
 	margin: 0px;
     #background-image: url(
-	img/line.png);
+	https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/line.png);
     #background-repeat: repeat-x
     #background-position: left
 	top;
-	/* background-image: url(img/ah-wp-1080.jpg); */ */
+	/* background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/ah-wp-1080.jpg); */ */
 	background-position: bottom;
 }
 a{
@@ -4861,7 +4861,7 @@ image-rendering: -webkit-optimize-contrast;
     padding-left: 20px;
     font-size: 19px;
     font-family: myriad;
-	background-image: url(img/dub.png);
+	background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/dub.png);
     background-repeat: no-repeat;
 }
 .condd{
@@ -4918,7 +4918,7 @@ background-color: #121212;
 	margin-bottom: 1px;
 	font-size: 19px;
 	font-family: myriad;
-	background-image: url(img/dub.png);
+	background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/dub.png);
 	background-repeat: no-repeat;
 	background-color: #121212;
 }
@@ -4952,7 +4952,7 @@ color: #e81e30;
 .headermain{width: 1280px;margin: 0 auto;overflow: hidden;}
 .logo{
 	float: left;
-	background-image: url(img/ah_logo.png);
+	background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/ah_logo.png);
 	background-size: 40px 40px;
 	background-repeat: no-repeat;
 	width: 40px;
@@ -4991,7 +4991,7 @@ margin-right: 10px;
     margin: 0px;
     border: 0px;
 	background-color: #333333;
-    background-image: url(img/ah_search.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/ah_search.png);
     background-size: 40px 40px;
     vertical-align: text-top;
     outline: none;
@@ -5002,7 +5002,7 @@ margin-right: 10px;
 .burger{
 	display: none;
 	float: right;
-	background-image: url(img/ah_burger_idle.png);
+	background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/ah_burger_idle.png);
 	background-size: 40px 40px;
 	background-repeat: no-repeat;
 	width: 40px;
@@ -5016,7 +5016,7 @@ margin-right: 10px;
 }
 .burgeractive{
 	float: right;
-    background-image: url(img/ah_burger_active.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/ah_burger_active.png);
     background-size: 40px 40px;
     background-repeat: no-repeat;
     width: 40px;
@@ -5074,7 +5074,7 @@ color: #e81e30;
 }
 .slider{height:320px;background-color: #121212;overflow: hidden;text-align:center;}
 .sliderp{
-background-image: url(img/slide_prev.png);
+background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/slide_prev.png);
     background-size: 80px 80px;
     background-repeat: no-repeat;
     width: 80px;
@@ -5089,7 +5089,7 @@ background-image: url(img/slide_prev.png);
     opacity: 0.4;
 }
 .slidern{
-    background-image: url(img/slide_next.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/slide_next.png);
     background-size: 80px 80px;
     background-repeat: no-repeat;
     width: 80px;
@@ -5454,7 +5454,7 @@ max-width: 1240px;
 }
 
 .socf{
-    background-image: url(img/fb.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/fb.png);
     background-repeat: no-repeat;
     background-size: 40px 40px;
     width: 40px;
@@ -5466,7 +5466,7 @@ max-width: 1240px;
 opacity: 0.7;
 }
 .socg{
-    background-image: url(img/gp.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/gp.png);
     background-repeat: no-repeat;
     background-size: 40px 40px;
     width: 40px;
@@ -5478,7 +5478,7 @@ opacity: 0.7;
 opacity: 0.7;
 }
 .soct{
-	background-image: url(img/tweet.png);
+	background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/tweet.png);
     background-repeat: no-repeat;
     background-size: 40px 40px;
     width: 40px;
@@ -5527,7 +5527,7 @@ opacity: 0.7;
     color: #333333;
     float: left;
 }
-.ieps{background-image: url(img/ah_play_transparent.png);background-color: #121212;background-size: 115px 115px;background-repeat: no-repeat;width: 115px;height: 115px;text-align: center;padding: 0px;margin-right: 1px;margin-top: 0px;float: left;}
+.ieps{background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/ah_play_transparent.png);background-color: #121212;background-size: 115px 115px;background-repeat: no-repeat;width: 115px;height: 115px;text-align: center;padding: 0px;margin-right: 1px;margin-top: 0px;float: left;}
 
 .ieps2{
     width: 115px;
@@ -5693,7 +5693,7 @@ padding-top: 10px;
 	float: left;
 	/* padding-top: 1px; */
 }
-.infoep{background-image: url(img/ah_play_transparent.png);background-color: #121212;background-repeat: no-repeat;background-size: 79px 79px;width: 79px;height: 79px;float: left;margin-right: 0px;margin-bottom: 0px;}
+.infoep{background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/ah_play_transparent.png);background-color: #121212;background-repeat: no-repeat;background-size: 79px 79px;width: 79px;height: 79px;float: left;margin-right: 0px;margin-bottom: 0px;}
 .infoept{
 	background-color: #121212;
 	width: 79px;
@@ -5948,7 +5948,7 @@ width: 239px;
     color: #333333;
     background-color: #121212;
     float: left;
-    background-image: url(img/button.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/button.png);
     background-size: 239px 134px;
     background-repeat: no-repeat;
 }
@@ -6043,7 +6043,7 @@ color: #e81e30;
 .pgan{color: #ffffff;font-family: myriad;font-size: 20px;font-style: normal;text-decoration: none;}
 .staff2{
 color:#333333;
-background-image: url("img/staff.png");
+background-image: url("https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/staff.png");
 background-repeat: no-repeat;
 background-position: center top;
 text-align:center;
@@ -6169,7 +6169,7 @@ border:0px;
     appearance: none;
     -webkit-appearance: none;
     -moz-appearance: none;
-    background-image: url(img/ah_select.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/ah_select.png);
     background-size: 40px 40px;
     background-repeat: no-repeat;
     background-position: right;
@@ -6196,7 +6196,7 @@ border:0px;
     appearance: none;
     -webkit-appearance: none;
     -moz-appearance: none;
-    background-image: url(img/ah_select.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/ah_select.png);
     background-size: 40px 40px;
     background-repeat: no-repeat;
     background-position: right;
@@ -6223,7 +6223,7 @@ border:0px;
     appearance: none;
     -webkit-appearance: none;
     -moz-appearance: none;
-    background-image: url(img/ah_select.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/ah_select.png);
     background-size: 40px 40px;
     background-repeat: no-repeat;
     background-position: right;
@@ -6241,11 +6241,11 @@ border:0px;
     width: 970px;
 }
 
-.filterselect{width: 239px;float: left;border-radius: 0px;padding: 9px;padding-left: 10px;padding-right: 36px;margin: 0px;margin-right: 1px;margin-bottom: 1px;border: 0px;background-color: #121212;color: #ffffff;outline: none;/* margin-left: 10px; */vertical-align: text-top;font-size: 17px;font-weight: normal;font-style: normal;appearance: none;-webkit-appearance: none;-moz-appearance: none;background-image: url(img/ah_select.png);background-size: 40px 40px;background-repeat: no-repeat;background-position: right;}
+.filterselect{width: 239px;float: left;border-radius: 0px;padding: 9px;padding-left: 10px;padding-right: 36px;margin: 0px;margin-right: 1px;margin-bottom: 1px;border: 0px;background-color: #121212;color: #ffffff;outline: none;/* margin-left: 10px; */vertical-align: text-top;font-size: 17px;font-weight: normal;font-style: normal;appearance: none;-webkit-appearance: none;-moz-appearance: none;background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/ah_select.png);background-size: 40px 40px;background-repeat: no-repeat;background-position: right;}
 .filterselect:hover{
 	opacity: 0.8;
 }
-.filtersubmit{width: 239px;float: left;border-radius: 0px;padding: 9px;padding-left: 10px;/* padding-right: 36px; */margin: 0px;margin-right: 1px;margin-bottom: 1px;border: 0px;background-color: #121212;color: #ffffff;outline: none;/* margin-left: 10px; */vertical-align: text-top;font-size: 17px;font-weight: normal;font-style: normal;appearance: none;-webkit-appearance: none;-moz-appearance: none;/* background-image: url(img/ah_select.png); *//* background-size: 40px 40px; *//* background-repeat: no-repeat; *//* background-position: right; */}
+.filtersubmit{width: 239px;float: left;border-radius: 0px;padding: 9px;padding-left: 10px;/* padding-right: 36px; */margin: 0px;margin-right: 1px;margin-bottom: 1px;border: 0px;background-color: #121212;color: #ffffff;outline: none;/* margin-left: 10px; */vertical-align: text-top;font-size: 17px;font-weight: normal;font-style: normal;appearance: none;-webkit-appearance: none;-moz-appearance: none;/* background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/ah_select.png); *//* background-size: 40px 40px; *//* background-repeat: no-repeat; *//* background-position: right; */}
 .filtersubmit:hover{
 	opacity: 0.8;
 }
