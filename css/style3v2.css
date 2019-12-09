@@ -250,7 +250,7 @@ top:-9000px;
   color: #333333;
 	margin-top: 69px;
   position:absolute;
-  background-image: url("/animeheaven.eu-site-design/img/prew.png");
+  background-image: url("https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/prew.png");
   left: 31px;
 	opacity: 0.3;
 }
@@ -264,7 +264,7 @@ top:-9000px;
   color: #333333;
 	margin-top: 69px;
   position:absolute;
-  background-image: url("/animeheaven.eu-site-design/img/next.png");
+  background-image: url("https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/next.png");
   right: 31px;
 	opacity: 0.3;
 }
@@ -344,7 +344,7 @@ float: left;
 width:604px;
 text-align:center;
 float: left;
-background-image: url("/animeheaven.eu-site-design/img/dub.png");
+background-image: url("https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/dub.png");
 background-repeat: no-repeat;
 }
 
@@ -401,7 +401,7 @@ font-weight: normal;
 font-style: normal;
 margin-left:17px;
 opacity: 0.7;
-background-image: url(/animeheaven.eu-site-design/img/1080p.png);
+background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/1080p.png);
 background-repeat: no-repeat;
 
 }
@@ -430,7 +430,7 @@ font-weight: normal;
 font-style: normal;
 margin-left:17px;
 opacity: 0.9;
-background-image: url(/animeheaven.eu-site-design/img/1080p.png);
+background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/1080p.png);
 background-repeat: no-repeat;
 }
 .epa{
@@ -611,7 +611,7 @@ width:425px;
 .center{
 	margin:0 auto;
 	display:block;
-	background-image: url("/animeheaven.eu-site-design/img/VB.png");
+	background-image: url("https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/VB.png");
 }
 
 .centerf{
@@ -641,7 +641,7 @@ padding:15px;
 	text-align:left;
 }
 .vb{
-	background-image: url("/animeheaven.eu-site-design/img/VB.png");
+	background-image: url("https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/VB.png");
 }
 
 .page{
@@ -687,7 +687,7 @@ text-align: center;
     background-color: #454545;
     color: #333333;
     overflow: hidden;
-    background-image: url(/animeheaven.eu-site-design/img/dub.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/dub.png);
     background-repeat: no-repeat;
     border-bottom: solid 1px #333333;
 }
@@ -771,7 +771,7 @@ text-align: center;
     color: #333333;
     background-color: #121212;
     float: left;
-    background-image: url(/animeheaven.eu-site-design/img/button.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/button.png);
     background-repeat: no-repeat;
 	background-size: 216px 121px;
 }
@@ -875,41 +875,41 @@ overflow:hidden;
 }
 @font-face {
     font-family: myriad;
-    src: url(/animeheaven.eu-site-design/fonts/myriad-pro/MyriadPro-Regular.otf);
+    src: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/fonts/myriad-pro/MyriadPro-Regular.otf);
 }
 
 @font-face {
     font-family: myriadlight;
-    src: url(/animeheaven.eu-site-design/fonts/myriad-pro/MyriadPro-Light.otf);
+    src: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/fonts/myriad-pro/MyriadPro-Light.otf);
 }
 @font-face {
     font-family: opensansregular;
-    src: url(/animeheaven.eu-site-design/fonts/Open_Sans/OpenSans-Regular.ttf);
+    src: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/fonts/Open_Sans/OpenSans-Regular.ttf);
 }
 @font-face {
     font-family: opensanslight;
-    src: url(/animeheaven.eu-site-design/fonts/Open_Sans/OpenSans-Light.ttf);
+    src: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/fonts/Open_Sans/OpenSans-Light.ttf);
 }
 
 
 @font-face {
     font-family: encodesansregular;
-    src: url(/animeheaven.eu-site-design/fonts/Encode_Sans_Expanded/EncodeSansExpanded-Regular.ttf);
+    src: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/fonts/Encode_Sans_Expanded/EncodeSansExpanded-Regular.ttf);
 }
 @font-face {
     font-family: encodesanslight;
-    src: url(/animeheaven.eu-site-design/fonts/Encode_Sans_Expanded/EncodeSansExpanded-Light.ttf);
+    src: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/fonts/Encode_Sans_Expanded/EncodeSansExpanded-Light.ttf);
 }
 
 body
 {
 	margin: 0px;
     #background-image: url(
-	/animeheaven.eu-site-design/img/line.png);
+	https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/line.png);
     #background-repeat: repeat-x
     #background-position: left
 	top;
-	/* background-image: url(/animeheaven.eu-site-design/fonts/ah-wp-1080.jpg); */ */
+	/* background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/ah-wp-1080.jpg); */ */
 	background-position: bottom;
 }
 a{
@@ -945,7 +945,7 @@ image-rendering: -webkit-optimize-contrast;
     padding-left: 20px;
     font-size: 19px;
     font-family: myriad;
-	background-image: url(/animeheaven.eu-site-design/img/dub.png);
+	background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/dub.png);
     background-repeat: no-repeat;
 }
 .condd{
@@ -1002,7 +1002,7 @@ background-color: #121212;
 	margin-bottom: 1px;
 	font-size: 19px;
 	font-family: myriad;
-	background-image: url(/animeheaven.eu-site-design/img/dub.png);
+	background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/dub.png);
 	background-repeat: no-repeat;
 	background-color: #121212;
 }
@@ -1036,7 +1036,7 @@ color: #e81e30;
 .headermain{width: 1280px;margin: 0 auto;overflow: hidden;}
 .logo{
 	float: left;
-	background-image: url(/animeheaven.eu-site-design/img/ah_logo.png);
+	background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/ah_logo.png);
 	background-size: 40px 40px;
 	background-repeat: no-repeat;
 	width: 40px;
@@ -1075,7 +1075,7 @@ margin-right: 10px;
     margin: 0px;
     border: 0px;
 	background-color: #333333;
-    background-image: url(/animeheaven.eu-site-design/img/ah_search.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/ah_search.png);
     background-size: 40px 40px;
     vertical-align: text-top;
     outline: none;
@@ -1086,7 +1086,7 @@ margin-right: 10px;
 .burger{
 	display: none;
 	float: right;
-	background-image: url(/animeheaven.eu-site-design/img/ah_burger_idle.png);
+	background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/ah_burger_idle.png);
 	background-size: 40px 40px;
 	background-repeat: no-repeat;
 	width: 40px;
@@ -1100,7 +1100,7 @@ margin-right: 10px;
 }
 .burgeractive{
 	float: right;
-    background-image: url(/animeheaven.eu-site-design/img/ah_burger_active.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/ah_burger_active.png);
     background-size: 40px 40px;
     background-repeat: no-repeat;
     width: 40px;
@@ -1158,7 +1158,7 @@ color: #e81e30;
 }
 .slider{height:320px;background-color: #121212;overflow: hidden;text-align:center;}
 .sliderp{
-background-image: url(/animeheaven.eu-site-design/img/slide_prev.png);
+background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/slide_prev.png);
     background-size: 80px 80px;
     background-repeat: no-repeat;
     width: 80px;
@@ -1173,7 +1173,7 @@ background-image: url(/animeheaven.eu-site-design/img/slide_prev.png);
     opacity: 0.4;
 }
 .slidern{
-    background-image: url(/animeheaven.eu-site-design/img/slide_next.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/slide_next.png);
     background-size: 80px 80px;
     background-repeat: no-repeat;
     width: 80px;
@@ -1229,6 +1229,153 @@ transition-duration: 1s;
 }
 .slidermain5{
 margin-top:-1600px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain6{
+margin-top:-1920px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain7{
+margin-top:-2240px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain8{
+margin-top:-2560px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain9{
+margin-top:-2880px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain10{
+margin-top:-3200px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain11{
+margin-top:-3520px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain12{
+margin-top:-3840px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain13{
+margin-top:-4160px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain14{
+margin-top:-4480px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain15{
+margin-top:-4800px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain16{
+margin-top:-5120px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain17{
+margin-top:-5440px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain18{
+margin-top:-5760px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain19{
+margin-top:-6080px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain20{
+margin-top:-6400px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain21{
+margin-top:-6722px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain22{
+margin-top:-7042px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain23{
+margin-top:-7362px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain24{
+margin-top:-7682px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain25{
+margin-top:-8002px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain26{
+margin-top:-8322px;
 -webkit-transition-property: margin-top;
 -webkit-transition-duration: 1s;
 transition-property: margin-top;
@@ -1391,7 +1538,7 @@ max-width: 1240px;
 }
 
 .socf{
-    background-image: url(/animeheaven.eu-site-design/img/fb.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/fb.png);
     background-repeat: no-repeat;
     background-size: 40px 40px;
     width: 40px;
@@ -1403,7 +1550,7 @@ max-width: 1240px;
 opacity: 0.7;
 }
 .socg{
-    background-image: url(/animeheaven.eu-site-design/img/gp.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/gp.png);
     background-repeat: no-repeat;
     background-size: 40px 40px;
     width: 40px;
@@ -1415,7 +1562,7 @@ opacity: 0.7;
 opacity: 0.7;
 }
 .soct{
-	background-image: url(/animeheaven.eu-site-design/img/tweet.png);
+	background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/tweet.png);
     background-repeat: no-repeat;
     background-size: 40px 40px;
     width: 40px;
@@ -1445,11 +1592,14 @@ opacity: 0.7;
     float: right;
 }
 .footera{
-    color: #969696;
+    color: #ffffff;
     font-family: myriadlight;
     font-size: 16px;
     font-style: normal;
 
+}
+.footera:hover{
+    color: #e81e30;
 }
 .iepsbox{
     text-align: center;
@@ -1461,7 +1611,7 @@ opacity: 0.7;
     color: #333333;
     float: left;
 }
-.ieps{background-image: url(/animeheaven.eu-site-design/img/ah_play_transparent.png);background-color: #121212;background-size: 115px 115px;background-repeat: no-repeat;width: 115px;height: 115px;text-align: center;padding: 0px;margin-right: 1px;margin-top: 0px;float: left;}
+.ieps{background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/ah_play_transparent.png);background-color: #121212;background-size: 115px 115px;background-repeat: no-repeat;width: 115px;height: 115px;text-align: center;padding: 0px;margin-right: 1px;margin-top: 0px;float: left;}
 
 .ieps2{
     width: 115px;
@@ -1627,7 +1777,7 @@ padding-top: 10px;
 	float: left;
 	/* padding-top: 1px; */
 }
-.infoep{background-image: url(/animeheaven.eu-site-design/img/ah_play_transparent.png);background-color: #121212;background-repeat: no-repeat;background-size: 79px 79px;width: 79px;height: 79px;float: left;margin-right: 0px;margin-bottom: 0px;}
+.infoep{background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/ah_play_transparent.png);background-color: #121212;background-repeat: no-repeat;background-size: 79px 79px;width: 79px;height: 79px;float: left;margin-right: 0px;margin-bottom: 0px;}
 .infoept{
 	background-color: #121212;
 	width: 79px;
@@ -1882,7 +2032,7 @@ width: 239px;
     color: #333333;
     background-color: #121212;
     float: left;
-    background-image: url(/animeheaven.eu-site-design/img/button.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/button.png);
     background-size: 239px 134px;
     background-repeat: no-repeat;
 }
@@ -1977,7 +2127,7 @@ color: #e81e30;
 .pgan{color: #ffffff;font-family: myriad;font-size: 20px;font-style: normal;text-decoration: none;}
 .staff2{
 color:#333333;
-background-image: url("/animeheaven.eu-site-design/img/staff.png");
+background-image: url("https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/staff.png");
 background-repeat: no-repeat;
 background-position: center top;
 text-align:center;
@@ -2103,7 +2253,7 @@ border:0px;
     appearance: none;
     -webkit-appearance: none;
     -moz-appearance: none;
-    background-image: url(/animeheaven.eu-site-design/img/ah_select.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/ah_select.png);
     background-size: 40px 40px;
     background-repeat: no-repeat;
     background-position: right;
@@ -2130,7 +2280,7 @@ border:0px;
     appearance: none;
     -webkit-appearance: none;
     -moz-appearance: none;
-    background-image: url(/animeheaven.eu-site-design/img/ah_select.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/ah_select.png);
     background-size: 40px 40px;
     background-repeat: no-repeat;
     background-position: right;
@@ -2157,7 +2307,7 @@ border:0px;
     appearance: none;
     -webkit-appearance: none;
     -moz-appearance: none;
-    background-image: url(/animeheaven.eu-site-design/img/ah_select.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/ah_select.png);
     background-size: 40px 40px;
     background-repeat: no-repeat;
     background-position: right;
@@ -2175,11 +2325,11 @@ border:0px;
     width: 970px;
 }
 
-.filterselect{width: 239px;float: left;border-radius: 0px;padding: 9px;padding-left: 10px;padding-right: 36px;margin: 0px;margin-right: 1px;margin-bottom: 1px;border: 0px;background-color: #121212;color: #ffffff;outline: none;/* margin-left: 10px; */vertical-align: text-top;font-size: 17px;font-weight: normal;font-style: normal;appearance: none;-webkit-appearance: none;-moz-appearance: none;background-image: url(/animeheaven.eu-site-design/img/ah_select.png);background-size: 40px 40px;background-repeat: no-repeat;background-position: right;}
+.filterselect{width: 239px;float: left;border-radius: 0px;padding: 9px;padding-left: 10px;padding-right: 36px;margin: 0px;margin-right: 1px;margin-bottom: 1px;border: 0px;background-color: #121212;color: #ffffff;outline: none;/* margin-left: 10px; */vertical-align: text-top;font-size: 17px;font-weight: normal;font-style: normal;appearance: none;-webkit-appearance: none;-moz-appearance: none;background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/ah_select.png);background-size: 40px 40px;background-repeat: no-repeat;background-position: right;}
 .filterselect:hover{
 	opacity: 0.8;
 }
-.filtersubmit{width: 239px;float: left;border-radius: 0px;padding: 9px;padding-left: 10px;/* padding-right: 36px; */margin: 0px;margin-right: 1px;margin-bottom: 1px;border: 0px;background-color: #121212;color: #ffffff;outline: none;/* margin-left: 10px; */vertical-align: text-top;font-size: 17px;font-weight: normal;font-style: normal;appearance: none;-webkit-appearance: none;-moz-appearance: none;/* background-image: url(/animeheaven.eu-site-design/img/ah_select.png); *//* background-size: 40px 40px; *//* background-repeat: no-repeat; *//* background-position: right; */}
+.filtersubmit{width: 239px;float: left;border-radius: 0px;padding: 9px;padding-left: 10px;/* padding-right: 36px; */margin: 0px;margin-right: 1px;margin-bottom: 1px;border: 0px;background-color: #121212;color: #ffffff;outline: none;/* margin-left: 10px; */vertical-align: text-top;font-size: 17px;font-weight: normal;font-style: normal;appearance: none;-webkit-appearance: none;-moz-appearance: none;/* background-image: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/ah_select.png); *//* background-size: 40px 40px; *//* background-repeat: no-repeat; *//* background-position: right; */}
 .filtersubmit:hover{
 	opacity: 0.8;
 }
@@ -2351,7 +2501,7 @@ border-radius: 10px;
 }
 
 
-@media (max-width:1370px) {
+@media (max-width: 1370px) {
 .slider{
 height:240px;
 }
@@ -2404,6 +2554,153 @@ transition-duration: 1s;
 }
 .slidermain5{
 margin-top:-1200px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain6{
+margin-top:-1440px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain7{
+margin-top:-1680px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain8{
+margin-top:-1920px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain9{
+margin-top:-2160px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain10{
+margin-top:-2400px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain11{
+margin-top:-2640px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain12{
+margin-top:-2880px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain13{
+margin-top:-3120px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain14{
+margin-top:-3360px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain15{
+margin-top:-3600px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain16{
+margin-top:-3840px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain17{
+margin-top:-4080px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain18{
+margin-top:-4320px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain19{
+margin-top:-4560px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain20{
+margin-top:-4800px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain21{
+margin-top:-5040px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain22{
+margin-top:-5280px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain23{
+margin-top:-5520px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain24{
+margin-top:-5760px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain25{
+margin-top:-6000px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain26{
+margin-top:-6240px;
 -webkit-transition-property: margin-top;
 -webkit-transition-duration: 1s;
 transition-property: margin-top;
@@ -2564,6 +2861,153 @@ margin-top:-1200px;
 transition-property: margin-top;
 transition-duration: 1s;
 }
+.slidermain6{
+margin-top:-1440px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain7{
+margin-top:-1680px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain8{
+margin-top:-1920px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain9{
+margin-top:-2160px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain10{
+margin-top:-2400px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain11{
+margin-top:-2640px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain12{
+margin-top:-2880px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain13{
+margin-top:-3120px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain14{
+margin-top:-3360px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain15{
+margin-top:-3600px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain16{
+margin-top:-3840px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain17{
+margin-top:-4080px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain18{
+margin-top:-4320px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain19{
+margin-top:-4560px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain20{
+margin-top:-4800px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain21{
+margin-top:-5040px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain22{
+margin-top:-5280px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain23{
+margin-top:-5520px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain24{
+margin-top:-5760px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain25{
+margin-top:-6000px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain26{
+margin-top:-6240px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
 
 .staffpic {
     width: 300px;
@@ -2603,7 +3047,7 @@ width: 238px;
 
 
 
-@media (max-width:960px) {
+@media (max-width: 960px) {
 
 .headermain{width: 640px;/* width: 100%; */}
 .footermain{
@@ -2779,6 +3223,153 @@ margin-top:-800px;
 transition-property: margin-top;
 transition-duration: 1s;
 }
+.slidermain6{
+margin-top:-960px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain7{
+margin-top:-1120px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain8{
+margin-top:-1280px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain9{
+margin-top:-1440px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain10{
+margin-top:-1600px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain11{
+margin-top:-1760px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain12{
+margin-top:-1920px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain13{
+margin-top:-2080px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain14{
+margin-top:-2240px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain15{
+margin-top:-2400px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain16{
+margin-top:-2560px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain17{
+margin-top:-2720px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain18{
+margin-top:-2880px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain19{
+margin-top:-3040px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain20{
+margin-top:-3200px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain21{
+margin-top:-3360px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain22{
+margin-top:-3520px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain23{
+margin-top:-3680px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain24{
+margin-top:-3840px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain25{
+margin-top:-4000px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain26{
+margin-top:-4160px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
 .stafftop {
     display: none;
 }
@@ -2849,7 +3440,7 @@ width: 318px;
 
 
 
-@media (max-width:640px) {
+@media (max-width: 640px) {
 .header {
 	min-width: 320px;
     width: 100%;
@@ -3052,7 +3643,153 @@ margin-top:-400px;
 transition-property: margin-top;
 transition-duration: 1s;
 }
-
+.slidermain6{
+margin-top:-480px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain7{
+margin-top:-560px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain8{
+margin-top:-640px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain9{
+margin-top:-720px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain10{
+margin-top:-800px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain11{
+margin-top:-880px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain12{
+margin-top:-960px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain13{
+margin-top:-1040px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain14{
+margin-top:-1120px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain15{
+margin-top:-1200px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain16{
+margin-top:-1280px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain17{
+margin-top:-1360px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain18{
+margin-top:-1440px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain19{
+margin-top:-1520px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain20{
+margin-top:-1600px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain21{
+margin-top:-1680px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain22{
+margin-top:-1760px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain23{
+margin-top:-1840px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain24{
+margin-top:-1920px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain25{
+margin-top:-2000px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
+.slidermain26{
+margin-top:-2080px;
+-webkit-transition-property: margin-top;
+-webkit-transition-duration: 1s;
+transition-property: margin-top;
+transition-duration: 1s;
+}
 .staffpic {
     width: 280px;
     height: 280px
