@@ -62,3 +62,11 @@ desktopMenuList([
 	"title": "Home"
   }
 ]);
+socialFooterList([ 
+  {
+	"class": "socf",
+    "url": "https://discordapp.com/invite/9MZbWxM",
+    "extra": 'target="_blank"',
+	"title": "Discord"
+  }
+]);
