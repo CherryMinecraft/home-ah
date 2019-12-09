@@ -1,18 +1,18 @@
+.notmain{
+	background: linear-gradient(rgba(20, 26, 35,0.55),rgba(20, 26, 35, 0.55)),
+		    url("https://cdn.jsdelivr.net/gh/CherryMinecraft/store@master/img/bg/light.png") no-repeat center center fixed;
+	background-size: cover;
+}
 @media (prefers-color-scheme: dark) {
 	.notmain{
 	background: linear-gradient(rgba(20, 26, 35,0.55),rgba(20, 26, 35, 0.55)),
-				url("https://cdn.jsdelivr.net/gh/CherryMinecraft/store@master/img/bg/dark.png") no-repeat center center fixed;
+		    url("https://cdn.jsdelivr.net/gh/CherryMinecraft/store@master/img/bg/dark.png") no-repeat center center fixed;
 	background-size: cover;
 	}
 	body{
-			background-color: #121212;
-		}
-}	
-	.notmain{
-	background: linear-gradient(rgba(20, 26, 35,0.55),rgba(20, 26, 35, 0.55)),
-				url("https://cdn.jsdelivr.net/gh/CherryMinecraft/store@master/img/bg/dark.png") no-repeat center center fixed;
-	background-size: cover;
+		background-color: #121212;
 	}
+}
 container {
 	width: 100%;
 	height: 100vh;
