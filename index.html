@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+   <head>
+	<title>CherryMC - Official Website</title>
+	<meta name="description" content="CherryMC Survival Minecraft Server with Plugins! You can join with the IP 'play.cherryminecraft.com'.">
+	<meta name="keywords" content="CherryMC, CherryMinecraft.com, Minecraft Server, Minecraft, Fun, Play, Website, Official">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta charset="utf-8">
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+	<link rel="icon" href="/favicon.ico" type="image/x-icon">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta property="og:image" content="/OG.png"/>
+    <link rel="stylesheet" id="stylesheet" href="https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/css/style3v5.css" type="text/css" />
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@0.5/css/classic.css" type="text/css" />
+         </head>
+   <body>
+      <div class='header'>
+         <div class='headermain'>
+			<a href="/"><div class="logo"></div></a>
+            <div class='searchbox'></div>
+			<div id="desktopMenu"></div>
+            <div class='burger' id='burgeri' onclick="makemenu()"></div>
+         </div>
+      </div>
+<div class="burgermenu" id="burger">
+<div class="line"></div>
+<div id="mobileMenu"></div>
+</div>
+      <div class='cleft'></div>
+      <div class='line'></div>
+      <script>
+         var burg = document.getElementById('burger');
+         var burgi = document.getElementById('burgeri');
+         var bwbox = document.getElementById('bbox');
+         var bwseli = document.getElementById('bwsel');
+         var stylesheeti = document.getElementById('stylesheet');
+         var menu=0;
+         var bw=0;
+         function makemenu()
+         {
+            if(menu==0)
+            {
+               burg.className='burgermenu2';
+               burgi.className='burgeractive';
+               menu=1;
+               console.log(1);
+            }
+            else
+            {
+               burg.className='burgermenu';
+               burgi.className='burger';
+               menu=0;
+               console.log(2);
+            }
+         }
+      </script>
+<div class="container">
+<div class='notmain'>
+   <div class='maindark'>
+		<div class="icon">
+			<img src="https://cdn.jsdelivr.net/gh/CherryMinecraft/home@master/img/logo.png" alt="CherryMC logo" class="img">
+		</div>
+		<div class="items">
+			<a href="https://discordapp.com/invite/9MZbWxM" class="item discord" target="_blank">
+			<div>
+				<img src="https://cdn.jsdelivr.net/gh/CherryMinecraft/home@master/img/icons/discord.png" alt="Minecraft Discord Icon" class="img">
+				<p class="subtitle">Join our</p>
+				<p class="title">Discord</p>
+			</div>
+			</a>
+			<a href="https://store.cherryminecraft.com" class="item store" target="_blank">
+			<div>
+				<img src="https://cdn.jsdelivr.net/gh/CherryMinecraft/home@master/img/icons/store.png" alt="Minecraft Store Icon" class="img">
+				<p class="subtitle">Donation</p>
+				<p class="title">Store</p>
+			</div>
+			</a>
+			<a href="/vote" class="item vote">
+			<div>
+				<img src="https://cdn.jsdelivr.net/gh/CherryMinecraft/home@master/img/icons/vote.png" alt="Minecraft Voting Icon" class="img">
+				<p class="subtitle">Support us by</p>
+				<p class="title">Voting</p>
+			</div>
+			</a>
+		</div>
+		<div class="playercount">
+			<p>Join <span class="sip" data-ip="play.cherryminecraft.com" data-port="25572">
+			0</span> other players on <span class="ip">play.cherryminecraft.com</span></p>
+		</div>
+	 </div>
+	</div>
+	</div>
+<div class='line'></div>
+      <div class='footer'>
+         <div class="footermain">
+<div class="follow"></div><div class="socbox">
+		<div class="socf"></div>
+		<div class="socg"></div>
+		<div class="soct"></div>
+	</div>
+	<div class="footert2"></div>
+<div class="footert"><a class="footera" href="/">&#169; CherryMC</a></div>
+</div></div>
+	<script src="https://code.jquery.com/jquery-1.11.2.min.js" type="text/javascript"></script>
+	<script src="https://cdn.jsdelivr.net/gh/CherryMinecraft/home@master/js/element/players-online.js" type="text/javascript"></script>
+	<script src='https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/js/element/reader.js'></script>
+	<script src='https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/db/menu.js'></script>
+	</body>
+</html>
