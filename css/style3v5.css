@@ -884,36 +884,36 @@ overflow:hidden;
 }
 @font-face {
     font-family: myriad;
-    src: url("https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/fonts/myriad-pro/MyriadPro-Regular.otf");
+    src: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/fonts/myriad-pro/MyriadPro-Regular.otf);
 }
 
 @font-face {
     font-family: myriadlight;
-    src: url("https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/fonts/myriad-pro/MyriadPro-Light.otf");
+    src: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/fonts/myriad-pro/MyriadPro-Light.otf);
 }
 @font-face {
     font-family: opensansregular;
-    src: url("https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/fonts/Open_Sans/OpenSans-Regular.ttf");
+    src: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/fonts/Open_Sans/OpenSans-Regular.ttf);
 }
 @font-face {
     font-family: opensanslight;
-    src: url("https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/fonts/Open_Sans/OpenSans-Light.ttf");
+    src: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/fonts/Open_Sans/OpenSans-Light.ttf);
 }
 
 
 @font-face {
     font-family: encodesansregular;
-    src: url("https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/fonts/Encode_Sans_Expanded/EncodeSansExpanded-Regular.ttf");
+    src: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/fonts/Encode_Sans_Expanded/EncodeSansExpanded-Regular.ttf);
 }
 @font-face {
     font-family: encodesanslight;
-    src: url("https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/fonts/Encode_Sans_Expanded/EncodeSansExpanded-Light.ttf");
+    src: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/fonts/Encode_Sans_Expanded/EncodeSansExpanded-Light.ttf);
 }
 
 body
 {
 	margin: 0px;
-    #background-image: url("https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/line.png");
+    #background-image: url("https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/line.png");
     #background-repeat: repeat-x
     #background-position: left
 	top;
@@ -4063,36 +4063,36 @@ overflow:hidden;
 }
 @font-face {
     font-family: myriad;
-    src: url("https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/fonts/myriad-pro/MyriadPro-Regular.otf");
+    src: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/fonts/myriad-pro/MyriadPro-Regular.otf);
 }
 
 @font-face {
     font-family: myriadlight;
-    src: url("https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/fonts/myriad-pro/MyriadPro-Light.otf");
+    src: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/fonts/myriad-pro/MyriadPro-Light.otf);
 }
 @font-face {
     font-family: opensansregular;
-    src: url("https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/fonts/Open_Sans/OpenSans-Regular.ttf");
+    src: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/fonts/Open_Sans/OpenSans-Regular.ttf);
 }
 @font-face {
     font-family: opensanslight;
-    src: url("https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/fonts/Open_Sans/OpenSans-Light.ttf");
+    src: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/fonts/Open_Sans/OpenSans-Light.ttf);
 }
 
 
 @font-face {
     font-family: encodesansregular;
-    src: url("https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/fonts/Encode_Sans_Expanded/EncodeSansExpanded-Regular.ttf");
+    src: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/fonts/Encode_Sans_Expanded/EncodeSansExpanded-Regular.ttf);
 }
 @font-face {
     font-family: encodesanslight;
-    src: url("https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/fonts/Encode_Sans_Expanded/EncodeSansExpanded-Light.ttf");
+    src: url(https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/fonts/Encode_Sans_Expanded/EncodeSansExpanded-Light.ttf);
 }
 
 body
 {
 	margin: 0px;
-    #background-image: url("https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/line.png");
+    #background-image: url("https://cdn.jsdelivr.net/gh/CherryMinecraft/home-ah@master/img/line.png");
     #background-repeat: repeat-x
     #background-position: left
 	top;
