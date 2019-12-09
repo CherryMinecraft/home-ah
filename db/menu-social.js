@@ -64,7 +64,7 @@ desktopMenuList([
 ]);
 socialFooterList([ 
   {
-	"class": "socf",
+	"class": "socd",
     "url": "https://discordapp.com/invite/9MZbWxM",
     "extra": 'target="_blank"',
 	"title": "Discord"
