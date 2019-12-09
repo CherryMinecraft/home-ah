@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Staff - CherryMC</title>
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+<link rel="icon" href="favicon.ico" type="image/x-icon">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link type="text/css" rel="stylesheet" id="stylesheet" href="https://troyjapanime.gitlab.io/release-schedule/assets/css/style3v4.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head><body><div class="header">
+	<div class="headermain">
+	<a href="/"><div class="logo"></div></a>
+	<div class="searchbox"></div>
+<div class="bwbox" id="bbox" onclick="makebw()" hidden><div class="bwselect" id="bwsel" hidden></div></div>
+<div id="desktopMenu"></div>
+<div class="burger" id="burgeri" onclick="makemenu()"></div>
+</div>
+</div>
+<div class="burgermenu" id="burger">
+<div class="line"></div>
+<div id="mobileMenu"></div>
+</div>
+<div class="cleft"></div><div class="line"></div>
+<script>
+var burg = document.getElementById('burger');
+var burgi = document.getElementById('burgeri');
+var bwbox = document.getElementById('bbox');
+var bwseli = document.getElementById('bwsel');
+var stylesheeti = document.getElementById('stylesheet');
+var menu=0;
+var bw=0;
+function getCookie(name) {
+  var value = "; " + document.cookie;
+  var parts = value.split("; " + name + "=");
+  if (parts.length == 2) return parts.pop().split(";").shift();
+}
+function makemenu()
+{
+	if(menu==0)
+	{
+		burg.className='burgermenu2';
+		burgi.className='burgeractive';
+		menu=1;
+		console.log(1);
+	}
+	else
+	{
+		burg.className='burgermenu';
+		burgi.className='burger';
+		menu=0;
+		console.log(2);
+	}
+}
+</script>
+<div class="slider">
+	<div class="slidermain">
+		<div class="centerf">
+			<div class="centerf2">
+				<img class="sliderimg" src="https://troyjapanime.gitlab.io/release-schedule/2019/season-selection/img/ah_slide_staff.png" alt="Staff Banner">
+			</div>
+		</div>
+	</div>
+</div>
+<div class="line"></div>
+<div class="notmain">
+	<div class="staffmain" id="main">
+	<!-- unused
+	<div class="stafftop"></div>
+	-->
+	<div class="cleft"></div>
+		<!-- Display Owners -->
+		<div id="ownerDisplay"></div>
+		<div class="cleft"></div>
+		<!-- Display Staff -->
+		<div id="staffDisplay"></div>
+		<div class="cleft"></div>
+	</div>
+</div>
+<div class="line"></div>
+<div class="footer">
+<div class="footermain">
+<div class="follow"></div><div class="socbox">
+		<div class="socf"></div>
+		<div class="socg"></div>
+		<div class="soct"></div>
+	</div>
+	<div class="footert2"></div>
+<div class="footert"><a class="footera" href="/">&#169; CherryMC</a></div>
+</div></div>
+	<script src='js/element/reader.js'></script>
+	<script src='db/staff.js'></script>
+	<script src='db/menu.js'></script>
+	</body>
+</html>
