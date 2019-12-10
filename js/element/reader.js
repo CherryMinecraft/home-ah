@@ -55,7 +55,7 @@ function socialFooterList(arr) {
   var i;
   for(i = 0; i<arr.length; i++) {
     out += '<a href="' + arr[i].url + '"' + arr[i].extra + '>' +
-	'<div class="' + arr[i].class + '">' + </div></a>';
+	'<div class="' + arr[i].class + '">' + '</div></a>';
   }
   document.getElementById("socialDisplay").innerHTML = out;
 }
