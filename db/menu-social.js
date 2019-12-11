@@ -25,16 +25,16 @@ mobileMenuList([
 	"title": "Staff"
   },
   {
-    "url": "/bans",
-    "extra": "",
-	"title": "Ban List"
+    "url": "https://bans.cherryminecraft.com/",
+    "extra": 'target="_blank"',
+	"title": "Bans"
   }
 ]);
 desktopMenuList([
   {
-    "url": "/bans",
-    "extra": "",
-	"title": "Ban List"
+    "url": "https://bans.cherryminecraft.com/",
+    "extra": 'target="_blank"',
+	"title": "Bans"
   },
   {
     "url": "/staff",
