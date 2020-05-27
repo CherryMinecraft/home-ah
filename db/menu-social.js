@@ -54,7 +54,7 @@ desktopMenuList([
   {
     "url": "http://store.cherryminecraft.com",
     "extra": 'target="_blank"',
-	"title": "Store"
+	"title": "Donate"
   },  
   {
     "url": "/",
